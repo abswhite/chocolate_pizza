@@ -1,0 +1,51 @@
+body {
+  width: 700px;
+}
+
+.divider {
+  border-bottom:10px solid 	#C8C8C8;
+  margin:25px auto 15px auto;
+  clear:both
+}
+
+#blog {
+  border: none;
+}
+
+#art-title {
+  float: left;
+}
+
+#main-img {
+  height: 500px;;
+  width: 700px;
+  align-items: center;
+  clear: both;
+
+}
+
+#print-img {
+  margin-top: 70px;
+  float: right;
+
+}
+
+h1 {
+  margin-bottom: 1px;
+  padding-bottom: .5px;
+  font-family: "Oswald";
+  font-weight: bolder;
+}
+
+h5 {
+  margin-top: 1px;
+  padding-top: .5px;
+  font-family: "News Cycle";
+  font-size: 9px;
+  color: #C0C0C0;
+}
+
+p {
+  text-indent: 50px;
+  color: 	#A0A0A0;
+}
