@@ -24,11 +24,32 @@ body {
 
 }
 
+.print-img1 {
+  float: right;
+}
+
 #print-img {
   margin-top: 70px;
-  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0 0 0 0;
+  float: left;
+  font-family: "News Cycle";
+  font-size: 9px;
+  color: #C0C0C0;}
 
-}
+  #print-text {
+    margin-top: 65px;
+    margin-right: 0;
+    margin-left: 1px;;
+    padding: 0 0 0 0;
+    font-family: "News Cycle";
+    font-size: 12px;
+    color: #C0C0C0;
+    float: right;
+    text-indent: 0;
+  }
+
 
 h1 {
   margin-bottom: 1px;
@@ -48,4 +69,6 @@ h5 {
 p {
   text-indent: 50px;
   color: 	#A0A0A0;
+  font-family: "Lora";
+  font-size: 12px;
 }
