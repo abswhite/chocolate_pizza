@@ -108,11 +108,46 @@ clear: both;
   color: #C0C0C0;}
 
 #footer-img {
-  block: inline;
-  padding-right: 47%;
-  padding-left: 47%;
+  position: absolute;
+  top: 1315px;
+  left: 47%;
   width: 25px;
   height: 25px;
+}
+
+.recipe {
+  position: absolute;
+  top: 955px;
+  left: 30px;
+  font-family: "Comic Sans MS";
+  font-weight: 100;
+  color: #8B5742;
+}
+
+.recipe1 {
+  position: absolute;
+  top: 955px;
+  left: 350px;
+  font-family: "Comic Sans MS";
+  font-weight: lighter;
+  color: #8B5742;
+}
+
+#share-text {
+  position: absolute;
+  top: 1233px;
+  left: 593px;
+  color: 	#EEE9E9;
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+ul span {
+  color: grey;
+}
+
+.strike {
+  text-decoration: line-through;
 }
 
   #print-text {
